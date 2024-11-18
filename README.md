@@ -5,11 +5,11 @@ Bu proje, **Motoko** dilinde yazılmış ve Internet Computer platformunda çal�
 ## Özellikler
 
 ### Temel İşlemler
-- **Toplama:** 
-- **Çıkarma:** 
-- **Çarpma:** 
-- **Bölme:** 
-- **Hafıza Temizleme (Sıfırlama):** 
+- **Toplam** 
+- **Çıkarma** 
+- **Çarpma** 
+- **Bölme** 
+- **Hafıza Temizleme (Sıfırlama)** 
 
 
 ### Gelişmiş İşlemler
